@@ -71,6 +71,7 @@ return array(
 				'editable' => TRUE,
 			),
 			'comment' => array(
+				'visible' => FALSE,
 				'editable' => TRUE,
 			),
 			'__buttons' => array(
